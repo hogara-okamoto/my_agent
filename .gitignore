@@ -8,3 +8,4 @@ venv/
 .env
 *.env
 **/.env
+./mcp1/generated_images/*
